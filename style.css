@@ -1,0 +1,24 @@
+body {
+    font-family: Poppins, serif;
+    color: #77C0CB;
+    background-color: #C71585;
+}
+
+h1 {
+    text-align: center;
+    background-color:blueviolet;
+}
+
+h3 {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
